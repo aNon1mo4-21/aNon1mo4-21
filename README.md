@@ -2,9 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;ZJU Turing 2502;Keep Learning)](https://git.io/typing-svg)
-  
-</div>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A80F7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;ZJU+Turing;Keep+Learning)](https://git.io/typing-svg)
 
 ## 🎓 About Me
 
@@ -23,6 +21,7 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 well...actually I'm not experienced at all!
 
 ### Tools & Technologies

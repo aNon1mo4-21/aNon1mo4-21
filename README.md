@@ -6,11 +6,11 @@
 
 ## 🎓 About Me
 
-- 🏫 Computer Science student at **Zhejiang University**
-- 💻 Interested in EVERYTHING!
-- 🌱 Currently learning LA,MA,FPA
-- 📚 TESTTEXT
-- 🎯 TESTTEXT
+ 🏫 ZJU Freshman
+ 💻 Interested in EVERYTHING!
+ 🌱 Currently learning LA,MA,FPA
+ 📚 TESTTEXT
+ 🎯 TESTTEXT
 
 ## 🛠️ Tech Stack
 

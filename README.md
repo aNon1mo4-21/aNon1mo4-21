@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Algorithm+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;ZJU Turing 2502;Keep Learning)](https://git.io/typing-svg)
   
 </div>
 
@@ -30,15 +30,6 @@ well...actually I'm not experienced at all!
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aNon1mo4-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aNon1mo4-21&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aNon1mo4-21&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -61,15 +52,5 @@ well...actually I'm not experienced at all!
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aNon1mo4-21)
   
   *Feel free to explore my repositories and reach out if you'd like to collaborate!*
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/aNon1mo4-21/count.svg)
-  
-  *"The only way to do great work is to love what you do." - Steve Jobs*
   
 </div>

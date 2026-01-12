@@ -1,9 +1,8 @@
 # Hi there, I'm aNon1mo4-21 👋
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A80F7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;ZJU+Turing;Keep+Learning)](https://git.io/typing-svg)
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A80F7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;ZJU+Turing;Keep+Learning)](https://git.io/typing-svg)
 ## 🎓 About Me
 
  🏫 ZJU Freshman
@@ -52,4 +51,8 @@ well...actually I'm not experienced at all!
   
   *Feel free to explore my repositories and reach out if you'd like to collaborate!*
   
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0D644B&text=always%20Navigating%20obstacles%20now%2C%201%20move%20on%204ward.&height=90&fontSize=28&stroke=AEDFD1&strokeWidth=1&fontAlignY=55&animation=fadeIn&fontFamily=Gugi" alt="Gugi Font">
 </div>

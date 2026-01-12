@@ -54,5 +54,5 @@ well...actually I'm not experienced at all!
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0D644B&text=always%20Navigating%20obstacles%20now%2C%201%20move%20on%204ward.&height=90&fontSize=28&stroke=AEDFD1&strokeWidth=1&fontAlignY=55&animation=fadeIn&fontFamily=Gugi" alt="Gugi Font">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FCC624&text=“always%20Navigating%20obstacles%20now%2C%201%20move%20on%204ward.”&height=90&fontSize=28&stroke=F7DF1E&strokeWidth=1&fontAlignY=55&animation=glitch&fontFamily=Gugi" alt="Gugi Font">
 </div>
